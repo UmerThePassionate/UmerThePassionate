@@ -1,7 +1,24 @@
-### Hi there 👋
+### Hi there Welcome!👋
+
+
+I'm Umer Saeed , a software developer with over 6 months of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength
+
+# Skills 🚀
+- Languages: Python, C++, Typescript, JavaScript, C#
+- Front-end: HTML, CSS, React, Nextjs
+- Back-end: Node.js
+- Frameworks: Django, Bootstrap, TailwindCSS
+- Databases: MySQL, PostgreSQL
+- Tools: Git, VS Code, Slack
+# Education 🎓
+-  Matric Computer Science
+-  Courses: Full Stack Development
+# Contact 📫
+- Email : developerumer1@gmail.com
+- Github: [Github](https://github.com/UmerThePassionate) 
 
 <!--
-**UmerThePassionate/UmerThePassionate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AbdullahThePassionate/AbdullahThePassionate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
